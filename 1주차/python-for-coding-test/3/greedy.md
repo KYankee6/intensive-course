@@ -9,34 +9,3 @@
    1. 다양한 아이디어를 고려해보자.
    2. 풀이 방법을 하나씩 고민해보자.  
 
-### 1.1 실전 문제 - 큰 수의 법칙
-시간 제한 : 1초  
-메모리 제한 : 128MB  
-배열이 주어지고, M번 더하는데 K번 연속해서 더해질 수 없다.
-배열의 크기 N (2 ≤ N ≤ 1000), 숫자가 더해지는 횟수 M (1 ≤ M ≤ 10,000), K (1 ≤ K ≤ 10,000)
-
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-int main()
-{
-    int answer=0;
-    int N, M, K;
-    cin >> N >> M >> K;
-    vector<int> v(N, 0);
-    for (int i = 0; i < N; i++)
-    {
-        cin>>v[i];
-    }
-    sort(v.begin(),v.end(),greater<int>());
-    for(int i=0; i<M/(K+1); i++){
-        answer+=v[0]*K;
-        answer+=v[1];
-    }
-    if(M%(K+1)!=0)answer +=v[0]*(M%(K+1));
-    cout<<answer;
-}
-```
-
-### 1.2 카드 고르기
-
