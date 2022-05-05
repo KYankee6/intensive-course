@@ -24,8 +24,9 @@
 	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/implementation.md)
 	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/5/dfs-bfs.md)
 2. JAVA 교재
-그 다음주부터 자바 교재 + SPRING을 조금씩 돌릴것이다.
-3. SPRING MVC 인터넷 강의
+자바 교재 + Spring(8:2).
+3. SPRING MVC 인터넷 강의 
+	3-0 Spring Core
 	3-1 ORM 기술(JPA, Mybatis-sqld)  
  
 ~~현재까지 과정 3까지가 목표. 이후 과정은 추가되거나 생략 가능~~  
