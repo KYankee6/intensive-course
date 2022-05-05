@@ -22,7 +22,7 @@
 	- [1장 - 복잡도](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/1/1%EC%9E%A5.md)
 	- [3장 - 그리디](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/3/greedy.md)
 	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/implementation.md)
-	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/dfs-bfs.md)
+	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/5/dfs-bfs.md)
 2. JAVA 교재
 그 다음주부터 자바 교재 + SPRING을 조금씩 돌릴것이다.
 3. SPRING MVC 인터넷 강의
