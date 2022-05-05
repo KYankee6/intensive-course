@@ -18,9 +18,9 @@
 
 
 ## 3. 과정
-1. python으로 보는 코딩 테스트
-나동빈님에 따르면 60시간안에 3번 돌릴 수 있다고 한다.
-pythonic한 문법과 약점들을 보완해보자.
+1. python으로 보는 코딩 테스트  
+	- [1장](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/1/1%EC%9E%A5.md)
+	- [3장](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/3/greedy.md)
 2. JAVA 교재
 그 다음주부터 자바 교재 + SPRING을 조금씩 돌릴것이다.
 3. SPRING MVC 인터넷 강의
