@@ -166,7 +166,7 @@ visited = [False] * 9
 bfs(graph,1,visited)
 ```
 
-|DFS|BFS
-|:---|:---|
+||DFS|BFS
+|--|:---|:---|
 동작원리|스택|큐
 구현방법|재귀 함수|큐 자료구조
