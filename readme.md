@@ -23,6 +23,8 @@
 	- [3장 - 그리디](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/3/greedy.md)
 	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/implementation.md)
 	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/5/dfs-bfs.md)
+	- [6장 - 정렬](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/6/sort.md)
+	- [7장 - 이진탐색](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/7/binary-search.md)
 2. JAVA 교재
 자바 교재 + Spring(8:2).
 3. SPRING MVC 인터넷 강의 
