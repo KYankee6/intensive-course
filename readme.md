@@ -25,6 +25,7 @@
 	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/5/dfs-bfs.md)
 	- [6장 - 정렬](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/6/sort.md)
 	- [7장 - 이진탐색](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/7/binary_search.md)
+	- [8장 - DP](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/8/dp.md)
 2. JAVA 교재
 자바 교재 + Spring(8:2).
 3. SPRING MVC 인터넷 강의 
