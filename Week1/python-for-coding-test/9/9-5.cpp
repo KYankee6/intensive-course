@@ -28,7 +28,7 @@ void dijkstra()
         for (int i = 0; i < graph[cur].size(); i++)
         {
             int next = graph[cur][i].first;
-            int cost = graph[cur][i].second + cur_cost;
+            int cost = graph[cur][i].second;
             if (dist[next] > dist[cur] + cost)
             {
                 dist[next] = dist[cur] + cost;
