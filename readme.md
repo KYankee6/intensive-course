@@ -18,7 +18,7 @@
 
 
 ## 3. 과정
-1. python으로 보는 코딩 테스트  
+1. python으로 보는 코딩 테스트 (2022-05-05 ~ 2022-05-1?)
 	- [1장 - 복잡도](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/1/1%EC%9E%A5.md)
 	- [3장 - 그리디](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/3/greedy.md)
 	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/implementation.md)
@@ -26,6 +26,16 @@
 	- [6장 - 정렬](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/6/sort.md)
 	- [7장 - 이진탐색](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/7/binary_search.md)
 	- [8장 - DP](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/8/dp.md)
+	- [9장]
+	- [10장]
+	- 이후 문제풀이   
+  
+> 2022-05-16
+> 비상체제, 11일이 걸릴거라곤 생각도 못했음(<10일로 예상했음)
+> 어,, 이러면 Intensive-Cousre의 의미 자체가 사라지고 있다.  
+> 죽이되든 밥이되든 꺠어있는 상태내에 (2022-05-16 18:00:00) 끝낸다.  
+> 빨리 스프링 하고 싶단 말이에요. 스프링 주시오  
+
 2. JAVA 교재
 자바 교재 + Spring(8:2).
 3. SPRING MVC 인터넷 강의 
