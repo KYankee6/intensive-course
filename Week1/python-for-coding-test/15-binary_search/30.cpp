@@ -12,9 +12,11 @@ struct Trie
     char x;
     Trie *childs[n_child];
     bool isEnd;
+    int cnt;
     Trie(){};
     Trie(int _x) : x(_x)
     {
+        cnt = 0;
         fill(childs, childs + n_child, nullptr);
         isEnd = false;
     };
@@ -41,7 +43,7 @@ struct Trie
                 Trie *new_trie = new Trie(str[idx]);
                 childs[to_idx(str[idx])] = new_trie;
             }
-            insert(idx + 1, str);
+            childs[to_idx(str[idx])]->insert(idx + 1, str);
         }
     }
     bool search(int idx, string &target)
@@ -52,7 +54,7 @@ struct Trie
         }
         else if (target[idx] == '?' || childs[to_idx(target[idx])])
         {
-            return search(idx + 1, target);
+            return childs[to_idx(target[idx])]->search(idx + 1, target);
         }
         else
             return false;
@@ -67,6 +69,6 @@ vector<int> solution(vector<string> words, vector<string> queries)
     {
         root->insert(0, words[i]);
     }
-    
+
     return answer;
 }
