@@ -21,15 +21,15 @@
 
 ## 3. 과정
 1. python으로 보는 코딩 테스트 (2022-05-05 ~ 2022-05-25)
-	- [1장 - 복잡도](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/1/1%EC%9E%A5.md)
-	- [3장 - 그리디](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/3/greedy.md)
-	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/implementation.md)
-	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/5/dfs-bfs.md)
-	- [6장 - 정렬](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/6/sort.md)
-	- [7장 - 이진탐색](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/7/binary_search.md)
-	- [8장 - DP](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/8/dp.md)
-	- [9장 - 최단경로](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/9/shortest-path.md)
-	- [10장 - 그래프이론](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/10/graph-theory.md)
+	- [1장 - 복잡도](https://github.com/KYankee6/intensive-course/blob/main/coding-test/python-for-coding-test/1/1%EC%9E%A5.md)
+	- [3장 - 그리디](https://github.com/KYankee6/intensive-course/blob/main/coding-test/python-for-coding-test/3/greedy.md)
+	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/coding-test/python-for-coding-test/4/implementation.md)
+	- [5장 - DFS/BFS](https://github.com/KYankee6/intensive-course/tree/main/coding-test/python-for-coding-test/5/dfs-bfs.md)
+	- [6장 - 정렬](https://github.com/KYankee6/intensive-course/tree/main/coding-test/python-for-coding-test/6/sort.md)
+	- [7장 - 이진탐색](https://github.com/KYankee6/intensive-course/tree/main/coding-test/python-for-coding-test/7/binary_search.md)
+	- [8장 - DP](https://github.com/KYankee6/intensive-course/tree/main/coding-test/python-for-coding-test/8/dp.md)
+	- [9장 - 최단경로](https://github.com/KYankee6/intensive-course/blob/main/coding-test/python-for-coding-test/9/shortest-path.md)
+	- [10장 - 그래프이론](https://github.com/KYankee6/intensive-course/blob/main/coding-test/python-for-coding-test/10/graph-theory.md)
 
 
 
