@@ -18,7 +18,7 @@
 
 
 ## 3. 과정
-1. python으로 보는 코딩 테스트 (2022-05-05 ~ 2022-05-1?)
+1. python으로 보는 코딩 테스트 (2022-05-05 ~ 2022-05-25)
 	- [1장 - 복잡도](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/1/1%EC%9E%A5.md)
 	- [3장 - 그리디](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/3/greedy.md)
 	- [4장 - 구현](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/4/implementation.md)
@@ -26,14 +26,13 @@
 	- [6장 - 정렬](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/6/sort.md)
 	- [7장 - 이진탐색](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/7/binary_search.md)
 	- [8장 - DP](https://github.com/KYankee6/intensive-course/tree/main/Week1/python-for-coding-test/8/dp.md)
-	- [9장]
-	- [10장]
-	- 이후 문제풀이   
+	- [9장 - 최단경로](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/9/shortest-path.md)
+	- [10장 - 그래프이론](https://github.com/KYankee6/intensive-course/blob/main/Week1/python-for-coding-test/10/graph-theory.md)
 
 
 
 2. JAVA 교재
-자바 교재 + Spring(8:2).
+[자바 정리 시리즈](https://github.com/KYankee6/zero-to-java)
 
 2-1 TDD with 박재성
 
