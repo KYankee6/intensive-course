@@ -34,18 +34,18 @@
 
 
 2. JAVA 교재
-[자바 정리 시리즈](https://github.com/KYankee6/zero-to-java)
+[자바 정리 시리즈](https://github.com/KYankee6/zero-to-java)  
 	2-1 TDD with 박재성  
 
   
-3. SPRING MVC 인터넷 강의 
-	3-0 Spring Core
-	3-1 데이터베이스 접근 기술(ORM, jdbc template, JPA, Querydsl)
+3. SPRING MVC 인터넷 강의  
+	3-0 Spring Core  
+	3-1 데이터베이스 접근 기술(ORM, jdbc template, JPA, Querydsl)  
 
-4. 클린 시리즈
-	4-0 오브젝트
-	4-1 클린 코드
-	4-2 클린 아키텍쳐
+4. 클린 시리즈  
+	4-0 오브젝트  
+	4-1 클린 코드  
+	4-2 클린 아키텍쳐  
  
 ~~현재까지 과정 3까지가 목표. 이후 과정은 추가되거나 생략 가능~~  
 ...
