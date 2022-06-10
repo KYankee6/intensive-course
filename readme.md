@@ -29,15 +29,14 @@
 	- [9장]
 	- [10장]
 	- 이후 문제풀이   
-  
-> 2022-05-16
-> 비상체제, 11일이 걸릴거라곤 생각도 못했음(<10일로 예상했음)
-> 어,, 이러면 Intensive-Cousre의 의미 자체가 사라지고 있다.  
-> 죽이되든 밥이되든 꺠어있는 상태내에 (2022-05-16 18:00:00) 끝낸다.  
-> 빨리 스프링 하고 싶단 말이에요. 스프링 주시오  
+
+
 
 2. JAVA 교재
 자바 교재 + Spring(8:2).
+
+2-1 TDD with 박재성
+
 3. SPRING MVC 인터넷 강의 
 	3-0 Spring Core
 	3-1 ORM 기술(JPA, Mybatis-sqld)  
@@ -51,5 +50,6 @@
   - DB 스키마 설계
   - 서버 구축
   - Swagger 배워보기
+  - Git Action CI/CD pipe 구성
   - Spring Boot, JPA, Spring Security, AWS EC2, DB(미정)
 
