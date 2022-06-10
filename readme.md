@@ -34,7 +34,7 @@
 
 
 2. JAVA 교재  
-[자바 정리 시리즈](https://github.com/KYankee6/zero-to-java)  
+	2-0 [자바 정리 시리즈](https://github.com/KYankee6/zero-to-java)  
 	2-1 TDD with 박재성  
 
   
